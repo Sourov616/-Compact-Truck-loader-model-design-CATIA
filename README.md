@@ -22,7 +22,4 @@ This project presents a mechanical modeling study of a **Caterpillar Compact Tra
 - Developed proficiency in **CATIA CAD software** for part and assembly design.  
 - Learned to create **exploded views and animations** for clear design communication.  
 
-## Project Screenshots / Visualization
-*(Add images or GIFs of your 3D model and exploded view animation here to enhance your repository)*
 
-## Repository Contents
